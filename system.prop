@@ -42,6 +42,9 @@ ro.sys.fw.dex2oat_thread_count=6
 # FRP
 ro.frp.pst=/dev/block/bootdevice/by-name/config
 
+# Google Assistant
+ro.opa.eligible_device=true
+
 # GPS
 persist.gps.qc_nlp_in_use=1
 persist.loc.nlp_name=com.qualcomm.location
